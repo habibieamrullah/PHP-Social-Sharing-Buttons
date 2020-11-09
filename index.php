@@ -8,7 +8,7 @@ include("sharingbuttons.php");
 <html>
     <head>
 		<title>PHP Social Sharing Buttons</title>
-		<link rel="stylesheet" type="text/css" href="https://bazar.applulbayt.web.id/sharingbuttons.css"/>
+		<link rel="stylesheet" type="text/css" href="hsharingbuttons.css"/>
 	</head>
 	<body>
 		<h1>PHP Social Sharing Buttons</h1>
